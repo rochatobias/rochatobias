@@ -37,7 +37,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de Ciên
 
 ## 📊 Projetos em Destaque
 
-### 🧠 [XAI Tests](https://github.com/rochatobias/XAI_tests)
+### 🧠 [XAI fer](https://github.com/rochatobias/XAI_fer)
 Experimentos com técnicas de Explainable AI (LIME e SHAP) para interpretação de modelos de Machine Learning
 
 ### 🪐 [Classificador de Planetas](https://github.com/rochatobias/classifica-planetas)
